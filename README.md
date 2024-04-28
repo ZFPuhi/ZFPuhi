@@ -1,5 +1,13 @@
-### Hi there 👋
+# Hey there :wave:
 
+<p align="center">
+  <img src="https://github.com/ZFPuhi/REPOSITORIES/blob/master/readme-content/garou-steam.gif?raw=true" alt="One Punch Man Garou">
+</p>
+
+<p align="center"> 
+  People that Garou Owned<br>
+ <p><img src="https://komarev.com/ghpvc/?username=ZFPuhi&label=Total%20Number%20Owned&color=32CD32&style=for-the-badge" alt="ZFPuhi" /> </p>
+</p>
 <!--
 **ZFPuhi/ZFPuhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
